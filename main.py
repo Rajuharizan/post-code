@@ -5,7 +5,7 @@ import os
 CSV_PATH = "Nepal_Service_Network.csv"
 
 st.title("Search Your Posts")
-st.write("You can search zip code, post code etc")
+st.write("Only Nepal's postcode and zip code are available.")
 search = st.text_input("Search", placeholder="Search your posts here", key="search")
 button = st.button("Search")
 
