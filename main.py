@@ -17,6 +17,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Main app
+st.write("This app is built by OnlyRj")
 st.title("Search Your Posts")
 st.write("Only Nepal's postcode and zip code are available.")
 
