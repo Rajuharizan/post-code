@@ -18,7 +18,7 @@ st.markdown("""
 
 # Main app
 st.write("This app is built by OnlyRj")
-st.title("Search Your Posts or zip code")
+st.title("Search Your Postal code or zip code")
 st.write("Only Nepal's postcode and zip code are available.")
 
 search = st.text_input("Search", placeholder="Search your posts here", key="search")
